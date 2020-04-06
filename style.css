@@ -1,0 +1,76 @@
+
+button {
+    background-image: url("Photo-1.jpeg");
+    background-size: cover; 
+            width: 46px; 
+            height: 59px; 
+            font-size: 2rem; 
+            
+}
+
+.navbar-brand {
+    float: right;
+    
+}
+
+a {
+    color: fuchsia;
+    
+    
+    float:right;
+
+}
+html{
+    border-color: hsl(100, 100%, 63%);
+    border-style: solid; 
+    
+}
+
+body{
+
+background: url("tempsnip.png"); 
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#background {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+}
+
+    .bubble {
+    color: yellow;
+    background-color: #d68ed6;
+    border-color:lime;
+}
+
+.navbar-text {
+    float:right;
+}
+.table-borderless {
+    height:auto;
+}
+
+h2 {
+color:limegreen;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: xxx-large;
+}
+
+h3 {
+    color:red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bold;
+    font-size:xx-l
+    }
+
+h4 {
+    color:blueviolet;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-style:italic;
+}
+
+
